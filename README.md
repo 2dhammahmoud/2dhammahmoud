@@ -1,7 +1,12 @@
 
 <div align="center">
-  <img src="https://github.com/2dhammahmoud/Adham-portfolio/raw/main/coding%20(1).gif" width="300"/>
+  <img src="https://github.com/2dhammahmoud/Adham-portfolio/raw/main/Analyzing%20Toy%20Story%20GIF%20by%20Giflytics.gif" width="600"/>
 </div>
+
+
+---
+
+
 
 <p align="center">
   <strong>Data is messy, but my job is to make it speak 📊✨</strong>
